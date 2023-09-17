@@ -1,6 +1,4 @@
 # nlw-ai
-
-# nlw-ai
 Application that allows you to upload videos and create eye-catching titles or descriptions.
 
 <h2>How to run on the desktop</h2>
