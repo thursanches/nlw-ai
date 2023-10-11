@@ -1,9 +1,9 @@
-# nlw-ai
+<h1>About</h1>
 Application that allows you to upload videos and create eye-catching titles or descriptions.
 
-<h2>How to run on the desktop</h2>
-<li>Use "pnpm install"</li>
-<li>Use "pnpm run dev"</li>
+<h1>How to run on the desktop</h1>
+<code>1º "pnpm install"</code></br></br>
+<code>2º "pnpm run dev"</code>
 
-<h3></h3>
+<h1>Reference</h1>
 <i>It Was made in NLW IA Mastery.</i>
