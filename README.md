@@ -14,4 +14,4 @@ Application that allows you to upload videos and create eye-catching titles or d
   </li>
 </ol>
 <h1>Reference</h1>
-<i>It Was made in NLW IA Mastery.</i>
+<i>It Was made in Rocketseat NLW IA Mastery.</i>
